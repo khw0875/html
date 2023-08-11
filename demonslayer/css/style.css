@@ -118,10 +118,10 @@ body .wrap {
   }
 }
 .wrap .swiper-wrapper .swiper-slide-active .inner::before {
-  animation: ani 1s ease 1;
+  animation: ani 2s ease 1;
 }
 .wrap .swiper-wrapper .swiper-slide-active .inner::after {
-  animation: ani 1s ease 0.3s 1;
+  animation: ani 2s ease 0.3s 1;
 }
 
 .wrap .swiper-wrapper .swiper-slide .inner .con {
