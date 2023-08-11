@@ -82,7 +82,7 @@ body .wrap {
   padding: 30px;
   box-sizing: border-box;
   opacity: 0.4;
-  transition: 1s;
+  transition: 3s;
 }
 .wrap .swiper-wrapper .swiper-slide-active .inner {
   opacity: 1;
