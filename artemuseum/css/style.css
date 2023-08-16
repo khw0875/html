@@ -33,7 +33,7 @@
   background-size: contain;
 }
 #header .logo a {
-  display: block;
+  opacity: 0;
 }
 #header .mainMenu {
   width: 60%;
