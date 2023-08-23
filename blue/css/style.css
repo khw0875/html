@@ -50,7 +50,7 @@ header h1::after {
 .sns {
   position: absolute;
   left: 80px;
-  top: 55%;
+  bottom: 10%;
   display: flex;
   gap: 30px;
 }
@@ -75,11 +75,13 @@ main {
 .footer {
   position: absolute;
   left: 80px;
-  top: 45%;
+  bottom: 30%;
+  margin-top: 30px;
 }
 .footer li {
   color: #aaa;
   font-size: 15px;
+  margin: 10px 0;
 }
 .menu {
   position: absolute;
