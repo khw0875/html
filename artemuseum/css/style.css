@@ -51,10 +51,9 @@
   color: #333;
 }
 #header .mainMenu ul li a:hover {
-  color: #333;
+  font-weight: bold;
 }
 #header .btn {
-  width: 20%;
   display: flex;
   justify-content: flex-end;
   gap: 30px;
@@ -63,7 +62,7 @@
   font-size: 30px;
 }
 #header .btn button i:hover {
-  color: #333;
+  font-weight: bold;
 }
 #header.fixed .btn button i {
   color: #333;
@@ -154,8 +153,8 @@
   text-align: center;
 }
 #biz .link ul li:hover {
-  transform: scale(1.3);
-  transition: 0.5s;
+  background: #333;
+  color: #fff;
 }
 #goal {
   width: 100%;
