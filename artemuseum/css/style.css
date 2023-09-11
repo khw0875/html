@@ -160,6 +160,7 @@
   width: 100%;
   height: 400px;
   background: url(../img/goal.png) no-repeat top left;
+  background-size: cover;
   color: #fff;
   position: relative;
   margin-bottom: 100px;
